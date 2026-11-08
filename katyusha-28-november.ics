@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Katyusha//Birthday Invitation//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:katyusha-20261128-monkeypark@invitation
+DTSTAMP:20261108T120000Z
+DTSTART:20261128T073000Z
+DTEND:20261128T100000Z
+SUMMARY:День рождения Катюши
+LOCATION:Monkey Park\, Москва\, ул. Поречная\, д. 10\, 
+ ТРК MARi\, 2 этаж
+DESCRIPTION:Комната «Тайна Коко» с 10:30 до 13:00. 
+ Квест с Джуди и вынос торта 10:30–11:30. Фур
+ шет 11:30. Дискотека 12:30–13:00. Билеты в парк
+  на весь день.
+END:VEVENT
+END:VCALENDAR
